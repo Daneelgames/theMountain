@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0f59dca6-b081-496b-9571-12c8255cada4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="dontrun" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ExtendedItemSpawn/SpawnGroup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SavingData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/LoadingHintsController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/LevelStreamer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/HealthController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ExtendedItemSpawn/LevelTree.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SpawnController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ExtendedItemSpawn/ItemSpawnProcessor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E98ED036-8295-432E-8C11-E52D6243EE11/5d/0c07db2c/MonoBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TwitchIRC/Example/Scripts/TwitchIrcExample.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SetEffectToTileOnDamage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/WeaponController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MobDamageArea.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/LevelExitTrigger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SkillsData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MA_ToolBox/MA_TextureAtlasserPro/Scripts/Editor/Views/MA_TextureAtlasserProInspectorView.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/WeaponPickUp.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ExplossionController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/WeaponDataRandomizer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MobPartsController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MobDeerActivator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MenuController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TimeManagement-master/Runtime/UpdatableExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/InventoryViewerController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ButtonReciever.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AnimatorEventsReciever.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AiDirector.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PropController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ClickToBind/KeyBinding.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/HerAltarcontroller.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RoomExit.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4BEC26B5-CBC7-4715-8442-F1499E984732/b9/1868acfe/List`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/LockObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EffectVisualController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerSkillsController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/InteractableSpawnInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ItemsList.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PoemData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ProjectileController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MobHideInCorners.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TrapController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/WallTrapController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MobMeleeAttack.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SteamAchievements.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MobBodyPart.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TransportObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SetWallsColor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerControls/PlayerMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RandomizedPhrasesData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MobAudioManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/WallBlockerController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SetRandomTrackOnStart.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FireController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4BEC26B5-CBC7-4715-8442-F1499E984732/26/0c6b8617/StreamWriter.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AssetSpawner.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Translator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ActivateRandomObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MeatTrap.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RandomizedNpcNamesData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PortableObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ToolController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MobGroundMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MusicLoopRandomizer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/QuestItemController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/InteractionController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TileController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/WeaponGenerationManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PcLightController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MobProjectileShooter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ActiveNpcManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ResourcePickUp.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/WeaponConnector.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerNoiseMaker.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/NotifyOnDestroy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TwitchManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MobWallsJumperMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4BEC26B5-CBC7-4715-8442-F1499E984732/5e/5262d9f5/MethodImplOptions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/WeaponData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PoolObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9B956647-017D-4DC1-B8D3-D25EEF012467/a2/3dceb085/CharacterController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/InteractiveButton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MobWitchFireAttack.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RoomController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ToolsRandomizer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/LightController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UiManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerControls/WeaponControls.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/LevelGenerator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MobBombBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MobNeedleMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/Steamworks.NET/autogen/isteamuserstats.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/QuestManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GutProgressionManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/NpcController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerAudioController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DoorMimicAnimEventTranslator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Interactable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DoorController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ElevatorController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/NoteTextGenerator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MobPartsSpawner.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/StreamingObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/LevelData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SavingSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerControls/StaminaController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerControls/StaminaStats.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerControls/MovementState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerControls/PlayerMovementStats.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Prefabs/InteractiveObjects/Hover/HoverFollowCam.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerControls/MouseLook.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/HubProgressionManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Steamworks.NET/SteamManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Prefabs/InteractiveObjects/Hover/HoverCarControl.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/LockObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HerAltarcontroller.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SavingSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Data/Phrases/RoomPhonePhrases_0.asset" />
+        <option value="$PROJECT_DIR$/Assets/Data/Phrases/SheFlashback_3Phrases.asset" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/WeaponConnector.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TransportObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ItemsList.cs" />
+        <option value="$PROJECT_DIR$/Assets/RandomSpriteToMaterial.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ToolController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LevelGenerator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Data/Phrases/SnoutProcPhrases.asset" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PortableObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MenuController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ActivateRandomObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AssetSpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MobPartsController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LevelData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerSkillsController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ExplossionController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MobBombBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MobDeerActivator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ProjectileController.cs" />
+        <option value="$PROJECT_DIR$/Assets/NoseWithTeethController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TrapController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/WallTrapController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GutProgressionManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/EnableObjectOnDisable.cs" />
+        <option value="$PROJECT_DIR$/Assets/Data/Phrases/ValPhrases.asset" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SavingData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UiManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/PlayerSettingsController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PropController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SpawnController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HubProgressionManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/FlashbackController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerControls/WeaponControls.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerAudioController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Conductor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HealthController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/NpcController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/InteractionController.cs" />
+        <option value="$PROJECT_DIR$/Assets/SpeachBubbleController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Interactable.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SetEffectToTileOnDamage.cs" />
+        <option value="$PROJECT_DIR$/Assets/SnakeMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/WeaponController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MobDamageArea.cs" />
+        <option value="$PROJECT_DIR$/Assets/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/RhythmEventsDirector.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerControls/PlayerMovement.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cqkHTgtb1KLEy8Gl93hdrOUqHx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TWShift.4" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.idesettings.debugger.rider.remote" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f59dca6-b081-496b-9571-12c8255cada4" name="Default Changelist" comment="" />
+      <created>1591263423974</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591263423974</updated>
+      <workItem from="1591263427321" duration="12879000" />
+      <workItem from="1591344678601" duration="22780000" />
+      <workItem from="1591431953225" duration="11480000" />
+      <workItem from="1591518330394" duration="8358000" />
+      <workItem from="1591532189161" duration="1345000" />
+      <workItem from="1591546906388" duration="2833000" />
+      <workItem from="1591605627659" duration="2083000" />
+      <workItem from="1591607924146" duration="294000" />
+      <workItem from="1591608344432" duration="13303000" />
+      <workItem from="1591639645511" duration="4335000" />
+      <workItem from="1591689594142" duration="12130000" />
+      <workItem from="1591774331592" duration="23441000" />
+      <workItem from="1591864534971" duration="16331000" />
+      <workItem from="1591883598817" duration="5669000" />
+      <workItem from="1591906785355" duration="689000" />
+      <workItem from="1591948146651" duration="31846000" />
+      <workItem from="1592022351995" duration="22703000" />
+      <workItem from="1592124427684" duration="10775000" />
+      <workItem from="1592209154358" duration="22501000" />
+      <workItem from="1592248118167" duration="3505000" />
+      <workItem from="1592293590914" duration="8617000" />
+      <workItem from="1592308343880" duration="611000" />
+      <workItem from="1592309566631" duration="1619000" />
+      <workItem from="1592337026837" duration="1073000" />
+      <workItem from="1592381926141" duration="606000" />
+      <workItem from="1592396781628" duration="10323000" />
+      <workItem from="1592466750438" duration="12519000" />
+      <workItem from="1592489954521" duration="7397000" />
+      <workItem from="1592506508068" duration="4393000" />
+      <workItem from="1592553397078" duration="22721000" />
+      <workItem from="1592642305684" duration="11710000" />
+      <workItem from="1592675528022" duration="7025000" />
+      <workItem from="1592727004959" duration="5221000" />
+      <workItem from="1592735317021" duration="852000" />
+      <workItem from="1592736171368" duration="11023000" />
+      <workItem from="1592814330003" duration="17616000" />
+      <workItem from="1592837740820" duration="5571000" />
+      <workItem from="1592900124282" duration="15330000" />
+      <workItem from="1592934146784" duration="17209000" />
+      <workItem from="1592988861118" duration="24328000" />
+      <workItem from="1593075072143" duration="23463000" />
+      <workItem from="1593161638604" duration="6851000" />
+      <workItem from="1593178024323" duration="9697000" />
+      <workItem from="1593246099404" duration="4509000" />
+      <workItem from="1593252084246" duration="8100000" />
+      <workItem from="1593264436028" duration="1786000" />
+      <workItem from="1593272273541" duration="1928000" />
+      <workItem from="1593289134551" duration="1388000" />
+      <workItem from="1593334269586" duration="14277000" />
+      <workItem from="1593422351999" duration="14237000" />
+      <workItem from="1593504426601" duration="21497000" />
+      <workItem from="1593592826195" duration="18459000" />
+      <workItem from="1593677499530" duration="18856000" />
+      <workItem from="1593766542297" duration="30442000" />
+      <workItem from="1593855013526" duration="633000" />
+      <workItem from="1593855648640" duration="1997000" />
+      <workItem from="1593889632949" duration="941000" />
+      <workItem from="1593936862954" duration="17273000" />
+      <workItem from="1593977070728" duration="625000" />
+      <workItem from="1594022627891" duration="15797000" />
+      <workItem from="1594069121016" duration="78000" />
+      <workItem from="1594109045284" duration="13452000" />
+      <workItem from="1594151867801" duration="2783000" />
+      <workItem from="1594193673031" duration="21567000" />
+      <workItem from="1594281825317" duration="3405000" />
+      <workItem from="1594297751371" duration="557000" />
+      <workItem from="1594322917965" duration="1046000" />
+      <workItem from="1594328788130" duration="396000" />
+      <workItem from="1594370375087" duration="6904000" />
+      <workItem from="1594382511446" duration="89000" />
+      <workItem from="1594383830728" duration="67000" />
+      <workItem from="1594384158226" duration="3220000" />
+      <workItem from="1594458436259" duration="14611000" />
+      <workItem from="1594546668606" duration="14487000" />
+      <workItem from="1594588205562" duration="3235000" />
+      <workItem from="1594627817329" duration="11588000" />
+      <workItem from="1594650592641" duration="875000" />
+      <workItem from="1594662784814" duration="3519000" />
+      <workItem from="1594667060792" duration="438000" />
+      <workItem from="1594715364164" duration="3660000" />
+      <workItem from="1594725585520" duration="7014000" />
+      <workItem from="1594801557073" duration="20028000" />
+      <workItem from="1594890463634" duration="8220000" />
+      <workItem from="1594905797795" duration="3474000" />
+      <workItem from="1594924126244" duration="409000" />
+      <workItem from="1594928197844" duration="942000" />
+      <workItem from="1594975435904" duration="1760000" />
+      <workItem from="1594981052247" duration="23543000" />
+      <workItem from="1595085916059" duration="4654000" />
+      <workItem from="1595151945562" duration="6567000" />
+      <workItem from="1595182622451" duration="646000" />
+      <workItem from="1595184434262" duration="8238000" />
+      <workItem from="1595232868240" duration="260000" />
+      <workItem from="1595233129855" duration="2639000" />
+      <workItem from="1595242294327" duration="2484000" />
+      <workItem from="1595245637731" duration="3447000" />
+      <workItem from="1595321787996" duration="12539000" />
+      <workItem from="1595404920652" duration="1101000" />
+      <workItem from="1595406089393" duration="8573000" />
+      <workItem from="1595437241924" duration="4539000" />
+      <workItem from="1595445518577" duration="84000" />
+      <workItem from="1595489514534" duration="4891000" />
+      <workItem from="1595496591600" duration="2256000" />
+      <workItem from="1595501632482" duration="11144000" />
+      <workItem from="1595578275583" duration="1597000" />
+      <workItem from="1595590358192" duration="3418000" />
+      <workItem from="1595751904855" duration="10288000" />
+      <workItem from="1595833357711" duration="12590000" />
+      <workItem from="1595912781313" duration="2643000" />
+      <workItem from="1595921007848" duration="4195000" />
+      <workItem from="1595926664249" duration="31000" />
+      <workItem from="1595926748198" duration="887000" />
+      <workItem from="1595948002683" duration="6581000" />
+      <workItem from="1596013950155" duration="7216000" />
+      <workItem from="1596097433207" duration="9422000" />
+      <workItem from="1596181065071" duration="12417000" />
+      <workItem from="1596210207829" duration="1756000" />
+      <workItem from="1596220609927" duration="36000" />
+      <workItem from="1596220696882" duration="524000" />
+      <workItem from="1596221478075" duration="1827000" />
+      <workItem from="1596276724071" duration="1047000" />
+      <workItem from="1596310069012" duration="138000" />
+      <workItem from="1596357153169" duration="5500000" />
+      <workItem from="1596377354369" duration="1363000" />
+      <workItem from="1596395002149" duration="773000" />
+      <workItem from="1596444923610" duration="8965000" />
+      <workItem from="1596479025784" duration="3933000" />
+      <workItem from="1596526390359" duration="12115000" />
+      <workItem from="1596562829835" duration="1939000" />
+      <workItem from="1596621809558" duration="12381000" />
+      <workItem from="1596706312242" duration="13968000" />
+      <workItem from="1596818366070" duration="12229000" />
+      <workItem from="1596873869678" duration="20533000" />
+      <workItem from="1596960566580" duration="12805000" />
+      <workItem from="1597045439193" duration="10136000" />
+      <workItem from="1597081382215" duration="6429000" />
+      <workItem from="1597134089596" duration="4671000" />
+      <workItem from="1597146721829" duration="4162000" />
+      <workItem from="1597157907401" duration="1418000" />
+      <workItem from="1597227824069" duration="603000" />
+      <workItem from="1597232409481" duration="90000" />
+      <workItem from="1597235262585" duration="627000" />
+      <workItem from="1597304115843" duration="1321000" />
+      <workItem from="1597396927529" duration="2934000" />
+      <workItem from="1597479300398" duration="7356000" />
+      <workItem from="1597570408389" duration="1801000" />
+      <workItem from="1597650752577" duration="691000" />
+      <workItem from="1597661945202" duration="395000" />
+      <workItem from="1597829059827" duration="30000" />
+      <workItem from="1597867484233" duration="2468000" />
+      <workItem from="1597915298222" duration="4229000" />
+      <workItem from="1597925884687" duration="5444000" />
+      <workItem from="1597945274417" duration="3210000" />
+      <workItem from="1597996370207" duration="6068000" />
+      <workItem from="1598037925525" duration="26000" />
+      <workItem from="1598266979301" duration="1060000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1104" y="201" key="#Notifications" timestamp="1591365272853">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1104" y="201" key="#Notifications/0.0.1920.1080@0.0.1920.1080" timestamp="1591365272853" />
+    <state x="452" y="226" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594631279139">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="452" y="226" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1594631279139" />
+    <state width="1689" height="360" key="GridCell.Tab.0.bottom" timestamp="1594648631736">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1689" height="360" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1594648631736" />
+    <state width="1689" height="360" key="GridCell.Tab.0.center" timestamp="1594648631736">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1689" height="360" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1594648631736" />
+    <state width="1689" height="360" key="GridCell.Tab.0.left" timestamp="1594648631736">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1689" height="360" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1594648631736" />
+    <state width="1689" height="360" key="GridCell.Tab.0.right" timestamp="1594648631736">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1689" height="360" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1594648631736" />
+    <state width="1689" height="360" key="GridCell.Tab.1.bottom" timestamp="1594648631737">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1689" height="360" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1594648631737" />
+    <state width="1689" height="360" key="GridCell.Tab.1.center" timestamp="1594648631736">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1689" height="360" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1594648631736" />
+    <state width="1689" height="360" key="GridCell.Tab.1.left" timestamp="1594648631736">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1689" height="360" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1594648631736" />
+    <state width="1689" height="360" key="GridCell.Tab.1.right" timestamp="1594648631736">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1689" height="360" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1594648631736" />
+    <state width="1689" height="360" key="GridCell.Tab.2.bottom" timestamp="1594648631737">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1689" height="360" key="GridCell.Tab.2.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1594648631737" />
+    <state width="1689" height="360" key="GridCell.Tab.2.center" timestamp="1594648631737">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1689" height="360" key="GridCell.Tab.2.center/0.0.1920.1080@0.0.1920.1080" timestamp="1594648631737" />
+    <state width="1689" height="360" key="GridCell.Tab.2.left" timestamp="1594648631737">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1689" height="360" key="GridCell.Tab.2.left/0.0.1920.1080@0.0.1920.1080" timestamp="1594648631737" />
+    <state width="1689" height="360" key="GridCell.Tab.2.right" timestamp="1594648631737">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1689" height="360" key="GridCell.Tab.2.right/0.0.1920.1080@0.0.1920.1080" timestamp="1594648631737" />
+    <state width="1689" height="360" key="GridCell.Tab.3.bottom" timestamp="1594648631737">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1689" height="360" key="GridCell.Tab.3.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1594648631737" />
+    <state width="1689" height="360" key="GridCell.Tab.3.center" timestamp="1594648631737">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1689" height="360" key="GridCell.Tab.3.center/0.0.1920.1080@0.0.1920.1080" timestamp="1594648631737" />
+    <state width="1689" height="360" key="GridCell.Tab.3.left" timestamp="1594648631737">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1689" height="360" key="GridCell.Tab.3.left/0.0.1920.1080@0.0.1920.1080" timestamp="1594648631737" />
+    <state width="1689" height="360" key="GridCell.Tab.3.right" timestamp="1594648631737">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1689" height="360" key="GridCell.Tab.3.right/0.0.1920.1080@0.0.1920.1080" timestamp="1594648631737" />
+    <state x="922" y="185" key="SettingsEditor" timestamp="1594631295257">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="922" y="185" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1594631295257" />
+    <state x="341" y="250" width="740" height="789" key="find.popup" timestamp="1592302582657">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="341" y="250" width="740" height="789" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1592302582657" />
+    <state x="616" y="250" width="672" height="677" key="run.anything.popup" timestamp="1597932007977">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="616" y="250" width="672" height="677" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1597932007977" />
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1597947054143">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1597947054143" />
+  </component>
+</project>
